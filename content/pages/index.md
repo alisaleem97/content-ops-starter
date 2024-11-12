@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to
+      label: 欢迎来到伊拉克
       color: text-primary
       type: Badge
     elementId: ''
