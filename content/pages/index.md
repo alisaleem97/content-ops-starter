@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 欢迎来到伊拉克
       color: text-dark
       styles:
         self:
